@@ -9,4 +9,4 @@ A Security Information and Event Management (SIEM) system is a cybersecurity sol
 
 Hardware:
 
-`-8GB RAM
+` -8GB RAM
